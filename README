@@ -1,0 +1,7 @@
+This a PHP sample client for the Doxey API.
+
+Just invoke it from the commandline like this:
+
+ php merge.php
+
+It will generate a file "invoice-sample.pdf" in your local directory.
